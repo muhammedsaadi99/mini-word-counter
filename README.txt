@@ -1,5 +1,5 @@
-#### Mini Calculator ####
-to run this Currency Converter, please follow the following steps.
+#### Mini Word Counter ####
+to run this Mini Word Counter, please follow the following steps.
 
 - npm install
-- npx currency-converter
+- npx mini-word-counter
